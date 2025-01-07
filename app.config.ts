@@ -33,7 +33,7 @@ export default defineAppConfig({
     footer: {
       credits: {
         icon: "",
-        text: "Build with 💓 By Yandra Muslim",
+        text: "Build with 💓 By 01011001andra",
         href: "https://yandramuslim.my.id",
       },
     },
